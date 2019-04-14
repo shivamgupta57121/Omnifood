@@ -1,2 +1,2 @@
-# Omnifood-
+# Omnifood
 An online food ordering website
